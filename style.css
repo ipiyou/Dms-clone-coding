@@ -422,6 +422,81 @@ justify-content: space-between;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 40px;
+}
+
+.footer_global{
+  background-color: #e0e0e0;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer_main_center{
+  width: 75rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer_content_box{
+  width: 100%;
+  height: 23.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.footer_content_card_box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 14.875rem;
+}
+
+.footer_content_card_team{
+  font-size: 18px;
+  margin-bottom: 1.25rem;
+  color: #616161;
+  
+}
+
+.footer_content_card{
+  color: #9e9e9e;
+  font-size: 18px;
+  margin-top: 1.25rem;
+}
+
+
+
+.footer_bottom_box{
+  width: 100%;
+  height: 7.375rem;
+  border-top: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.footer_team_name_box{
+  display: flex;
+  align-items: center;
+  margin-right: 850px;
+}
+
+.footer_team_name_title{
+  font-size: 18px;
+}
+
+.footer_team_name_icon{
+  margin-right: 40px;
+}
+
+.footer_bottom_link{
+  margin-left: 30px;
 }
 
 
